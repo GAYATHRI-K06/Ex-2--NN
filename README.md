@@ -120,10 +120,13 @@ plt.show()
 
 # OUTPUT:
 
- ![image](https://github.com/user-attachments/assets/2abfc2f1-232f-471e-b61e-945118f9a297)
- ![image](https://github.com/user-attachments/assets/455e50aa-a33e-4156-88cb-e9c48850817c)
- ![image](https://github.com/user-attachments/assets/a925382d-6eb9-4ef2-858f-ee15b260678b)
- ![image](https://github.com/user-attachments/assets/c82e517b-5ef3-4f0f-bb66-a43e775c8f03)
+![image](https://github.com/user-attachments/assets/74ae3aeb-6d34-4c73-a062-599820a542b4)
+![image](https://github.com/user-attachments/assets/efa65adc-67e6-4b3c-9873-5e953bcf8f0c)
+![image](https://github.com/user-attachments/assets/a90f11f9-018c-41cd-9097-9c9f89fec586)
+![image](https://github.com/user-attachments/assets/611b451c-069c-407c-9c23-2223359f3307)
+
+
+
 
 
 
