@@ -117,12 +117,13 @@ plt.ylabel('Errors')
 plt.show()
 ``````````
 
+
 # OUTPUT:
 
-    ![image](https://github.com/user-attachments/assets/2abfc2f1-232f-471e-b61e-945118f9a297)
-    ![image](https://github.com/user-attachments/assets/455e50aa-a33e-4156-88cb-e9c48850817c)
-    ![image](https://github.com/user-attachments/assets/a925382d-6eb9-4ef2-858f-ee15b260678b)
-    ![image](https://github.com/user-attachments/assets/c82e517b-5ef3-4f0f-bb66-a43e775c8f03)
+ ![image](https://github.com/user-attachments/assets/2abfc2f1-232f-471e-b61e-945118f9a297)
+ ![image](https://github.com/user-attachments/assets/455e50aa-a33e-4156-88cb-e9c48850817c)
+ ![image](https://github.com/user-attachments/assets/a925382d-6eb9-4ef2-858f-ee15b260678b)
+ ![image](https://github.com/user-attachments/assets/c82e517b-5ef3-4f0f-bb66-a43e775c8f03)
 
 
 
